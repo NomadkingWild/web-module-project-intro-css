@@ -61,12 +61,6 @@ html{
    .park{
       font-weight: bold;
   }
-  footer img{
-      position:relative;
-      top: 26rem;
-      Width:100%;
-      height: 20%;
-      z-index:-1;
       
   }
   .nevada{
@@ -82,6 +76,7 @@ html{
     }
     .toplink{
         display:inline-block;
+        align-items: center;
     }
         
     #plan{
